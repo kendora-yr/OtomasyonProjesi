@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A0068A60-FE67-4F95-B879-1C7462B42E5D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjeCalismasi</RootNamespace>
+    <AssemblyName>ProjeCalismasi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formlar\frmAdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmAdminGiris.Designer.cs">
+      <DependentUpon>frmAdminGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmAdminIsyeriIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmAdminIsyeriIslemleri.Designer.cs">
+      <DependentUpon>frmAdminIsyeriIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmIsyeriYetkilisiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmIsyeriYetkilisiGiris.Designer.cs">
+      <DependentUpon>frmIsyeriYetkilisiGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmIsyeriYetkilisiKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmIsyeriYetkilisiKayit.Designer.cs">
+      <DependentUpon>frmIsyeriYetkilisiKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmIsyeriYetkilisiTanimla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmIsyeriYetkilisiTanimla.Designer.cs">
+      <DependentUpon>frmIsyeriYetkilisiTanimla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmMainAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmMainAdmin.Designer.cs">
+      <DependentUpon>frmMainAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmMainIsyeriYetkilisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmMainIsyeriYetkilisi.Designer.cs">
+      <DependentUpon>frmMainIsyeriYetkilisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmAnaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmAnaGiris.Designer.cs">
+      <DependentUpon>frmAnaGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmMainNormalKullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmMainNormalKullanici.Designer.cs">
+      <DependentUpon>frmMainNormalKullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmNormalKullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmNormalKullaniciGiris.Designer.cs">
+      <DependentUpon>frmNormalKullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmNormalKullaniciIsyeriIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmNormalKullaniciIsyeriIslemleri.Designer.cs">
+      <DependentUpon>frmNormalKullaniciIsyeriIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmNormalKullaniciKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmNormalKullaniciKayit.Designer.cs">
+      <DependentUpon>frmNormalKullaniciKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRandevuAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRandevuAl.Designer.cs">
+      <DependentUpon>frmRandevuAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRandevuTalepleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRandevuTalepleri.Designer.cs">
+      <DependentUpon>frmRandevuTalepleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporCevaplanmamisSorulariListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporCevaplanmamisSorulariListeleme.Designer.cs">
+      <DependentUpon>frmRaporCevaplanmamisSorulariListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporIsyeriListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporIsyeriListeleme.Designer.cs">
+      <DependentUpon>frmRaporIsyeriListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporIsyeriYetkiliListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporIsyeriYetkiliListeleme.Designer.cs">
+      <DependentUpon>frmRaporIsyeriYetkiliListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporKullaniciListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporKullaniciListeleme.Designer.cs">
+      <DependentUpon>frmRaporKullaniciListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporRetEdilmisRandevulariListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporRetEdilmisRandevulariListeleme.Designer.cs">
+      <DependentUpon>frmRaporRetEdilmisRandevulariListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporTumRandevulariListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporTumRandevulariListeleme.Designer.cs">
+      <DependentUpon>frmRaporTumRandevulariListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmSoruCevap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmSoruCevap.Designer.cs">
+      <DependentUpon>frmSoruCevap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmGelenSorular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmGelenSorular.Designer.cs">
+      <DependentUpon>frmGelenSorular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmTakvimOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmTakvimOlustur.Designer.cs">
+      <DependentUpon>frmTakvimOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmRaporTumSorulariListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmRaporTumSorulariListeleme.Designer.cs">
+      <DependentUpon>frmRaporTumSorulariListeleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Siniflar\Admin.cs" />
+    <Compile Include="Siniflar\AdminDBEntity.cs" />
+    <Compile Include="Siniflar\DBEntity.cs" />
+    <Compile Include="Siniflar\Isyeri.cs" />
+    <Compile Include="Siniflar\IsyeriDBEntity.cs" />
+    <Compile Include="Siniflar\IsyeriYetkilisi.cs" />
+    <Compile Include="Siniflar\IsyeriYetkilisiDBEntity.cs" />
+    <Compile Include="Siniflar\Kullanici.cs" />
+    <Compile Include="Siniflar\NormalKullanici.cs" />
+    <Compile Include="Siniflar\NormalKullaniciDBEntity.cs" />
+    <Compile Include="Siniflar\Randevu.cs" />
+    <Compile Include="Siniflar\RandevuDBEntity.cs" />
+    <Compile Include="Siniflar\RandevuyaKapaliTarih.cs" />
+    <Compile Include="Siniflar\RandevuyaKapaliTarihDBEntity.cs" />
+    <Compile Include="Siniflar\SoruCevap.cs" />
+    <Compile Include="Siniflar\SoruCevapDBEntity.cs" />
+    <EmbeddedResource Include="Formlar\frmAdminGiris.resx">
+      <DependentUpon>frmAdminGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmAdminIsyeriIslemleri.resx">
+      <DependentUpon>frmAdminIsyeriIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmIsyeriYetkilisiGiris.resx">
+      <DependentUpon>frmIsyeriYetkilisiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmIsyeriYetkilisiKayit.resx">
+      <DependentUpon>frmIsyeriYetkilisiKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmIsyeriYetkilisiTanimla.resx">
+      <DependentUpon>frmIsyeriYetkilisiTanimla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmMainAdmin.resx">
+      <DependentUpon>frmMainAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmMainIsyeriYetkilisi.resx">
+      <DependentUpon>frmMainIsyeriYetkilisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmAnaGiris.resx">
+      <DependentUpon>frmAnaGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmMainNormalKullanici.resx">
+      <DependentUpon>frmMainNormalKullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmNormalKullaniciGiris.resx">
+      <DependentUpon>frmNormalKullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmNormalKullaniciIsyeriIslemleri.resx">
+      <DependentUpon>frmNormalKullaniciIsyeriIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmNormalKullaniciKayit.resx">
+      <DependentUpon>frmNormalKullaniciKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRandevuAl.resx">
+      <DependentUpon>frmRandevuAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRandevuTalepleri.resx">
+      <DependentUpon>frmRandevuTalepleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporCevaplanmamisSorulariListeleme.resx">
+      <DependentUpon>frmRaporCevaplanmamisSorulariListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporIsyeriListeleme.resx">
+      <DependentUpon>frmRaporIsyeriListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporIsyeriYetkiliListeleme.resx">
+      <DependentUpon>frmRaporIsyeriYetkiliListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporKullaniciListeleme.resx">
+      <DependentUpon>frmRaporKullaniciListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporRetEdilmisRandevulariListeleme.resx">
+      <DependentUpon>frmRaporRetEdilmisRandevulariListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporTumRandevulariListeleme.resx">
+      <DependentUpon>frmRaporTumRandevulariListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmRaporTumSorulariListeleme.resx">
+      <DependentUpon>frmRaporTumSorulariListeleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmSoruCevap.resx">
+      <DependentUpon>frmSoruCevap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmGelenSorular.resx">
+      <DependentUpon>frmGelenSorular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmTakvimOlustur.resx">
+      <DependentUpon>frmTakvimOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

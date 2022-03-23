@@ -1,0 +1,114 @@
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe.config
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.pdb
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.frmMainIsYeriYetkilisi.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAnaGiris.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Properties.Resources.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.exe
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.pdb
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainNormalKullanici.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyerineSoruSor.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciGiris.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciKayit.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminGiris.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiGiris.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiKayit.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainAdmin.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiTanimla.resources
+C:\Users\hp\source\repos\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmGelenSorular.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csprojAssemblyReference.cache
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminGiris.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminIsyeriIslemleri.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiGiris.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiKayit.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiTanimla.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainAdmin.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.frmMainIsyeriYetkilisi.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAnaGiris.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainNormalKullanici.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciGiris.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciKayit.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyerineSoruSor.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmGelenSorular.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Properties.Resources.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.GenerateResource.cache
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.exe
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.pdb
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciIsyeriIslemleri.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe.config
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.pdb
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe.config
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.pdb
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminIsyeriIslemleri.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiKayit.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiTanimla.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainAdmin.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.frmMainIsyeriYetkilisi.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAnaGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainNormalKullanici.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciIsyeriIslemleri.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciKayit.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporSorularıListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyerineSoruSor.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmGelenSorular.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Properties.Resources.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.exe
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.pdb
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRandevuAl.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmTakvimOlustur.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRandevuTalepleri.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRandevuAl.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRandevuTalepleri.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmTakvimOlustur.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporIsyeriListeleme.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporKullaniciListeleme.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporIsyeriYetkiliListeleme.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporTumSorulariListeleme.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporCevaplanmamisSorulariListeleme.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporTumRandevulariListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe.config
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.exe
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\bin\Debug\ProjeCalismasi.pdb
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAdminIsyeriIslemleri.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiKayit.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyeriYetkilisiTanimla.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainAdmin.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.frmMainIsyeriYetkilisi.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmAnaGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmMainNormalKullanici.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciGiris.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciIsyeriIslemleri.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmNormalKullaniciKayit.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRandevuAl.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRandevuTalepleri.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporCevaplanmamisSorulariListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporIsyeriListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporIsyeriYetkiliListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporOnaylanmamisRandevulariListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporTumRandevulariListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporTumSorulariListeleme.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmIsyerineSoruSor.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmGelenSorular.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmTakvimOlustur.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Properties.Resources.resources
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.exe
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.pdb
+C:\Users\hp\Desktop\Büyük Dönem Ödevi\Son Hal\En Son Hal\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporGirisYapmisKullaniciListeleme.resources
+C:\Users\alkaplan\Desktop\ProjeCalismasi\ProjeCalismasi\obj\Debug\ProjeCalismasi.Formlar.frmRaporRetEdilmisRandevulariListeleme.resources
